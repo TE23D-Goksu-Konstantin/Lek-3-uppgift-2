@@ -1,0 +1,39 @@
+body{
+    background-image: url(./img/ek.jpg);
+
+}
+
+h1{
+    background-color: lightblue;
+    color: tomato;
+}
+
+h2{
+    color: lightgreen;
+    background-color: purple;
+}
+
+p{
+    background-color: white;
+    color: black;
+}
+
+a{
+    background-color: black;
+    color: white;
+}
+
+a:hover{
+    color: black;
+    background-color: white;
+}
+
+a:active{
+    color: white;
+    background-color: black;
+}
+
+ul{
+    color: black;
+}
+
